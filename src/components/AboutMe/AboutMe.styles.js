@@ -29,13 +29,14 @@ export const Title = styled.h1`
 
     p{
         margin: 0;
+     
     }
 
     p:nth-child(2){
         font-size: 55px;
         background: ${colors.TEXT_GRADIENT_PURPLE};
         -webkit-background-clip: text !important;
-        -webkit-text-fill-color: transparent !important;
+      //  -webkit-text-fill-color: transparent !important;
     }
 
     @media (max-width: 768px){
