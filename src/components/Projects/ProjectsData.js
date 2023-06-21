@@ -18,6 +18,7 @@ import simpsonProject from "../images/projects/simpson.jpeg";
 import tareasProject from "../images/projects/todo.jpeg";
 
 export const projectsPortfolio = [
+    
     {
         title: "Rick & Morty API",
         image: rickMorty,
@@ -85,7 +86,7 @@ export const projectsPortfolio = [
         ],
         description: "Application created with Vite where you can save the information and see it on a summary.",
         repository: "https://github.com/Ludy-Neita/Gasolinera",
-        website:"#!" //ustedes deben colocar aquí el link del enlace público de netlify
+        website:"https://64925fdf3e574803dcde91d8--vermillion-cupcake-a02768.netlify.app/"
     },
     
 ];
