@@ -6,9 +6,9 @@ export const colors= {
     TEXT_WHITE: "#fff",
 
     BACKGROUND_GRADIENT_PINK:
-        "linear-gradient(135deg, rgb (102, 153, 255) 0%, rgb (255, 51, 102) 100%",
+        "linear-gradient(135deg, rgb(102, 153, 255) 0%, rgb(255, 51, 102) 100%",
 
     BOX_SHADOW: "0 0 20px rgba (0, 0 , 0, 0.04)",
-    BOX_SHADOW_BLUE: "-3px 4px 0 rgb (102, 153, 255)",
+    BOX_SHADOW_BLUE: "-3px 4px 0 rgb(102, 153, 255)",
     BOX_SHADOW_BUTTON: "0 10px 20px -10px #b664b0",
 };

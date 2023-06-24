@@ -9,7 +9,7 @@ import sassImage from "../images/techs/sass.png"; //
 import semanticImage from "../images/techs/semantic.png"; //
 import styledImage from "../images/techs/styled-logo.png"; //
 import viteImage from "../images/techs/vite.png";//
-//import criptomonedaImage from "../images/projects/crypto.jpeg";
+import criptomonedaImage from "../images/projects/crypto.jpeg";
 import dynamicFormProject from "../images/projects/dynamic.jpeg";//
 import gasolineraProject from "../images/projects/gasolinera.jpeg";//
 import marvelProject from "../images/projects/marvel.jpeg";//
@@ -88,5 +88,18 @@ export const projectsPortfolio = [
         repository: "https://github.com/Ludy-Neita/Gasolinera",
         website:"https://64925fdf3e574803dcde91d8--vermillion-cupcake-a02768.netlify.app/"
     },
+    {
+        title: "Cryptocurrency",
+        image: criptomonedaImage,
+        techs: [
+            {name:"Vite", src:viteImage},
+            {name:"Chakra",   src:chakraImage  },
+            {name:"React Router DOM",   src:reactRouterdomImage  },
+        ],
+        description: "Application created with Vite where you'll can convert currencies to crypto",
+        repository: "https://github.com/Ludy-Neita/Cripto-Monedas",
+        website:"https://64966a2ee8a7731e24b0bcdd--boisterous-cactus-2fa4b0.netlify.app/"
+    },
+
     
 ];
