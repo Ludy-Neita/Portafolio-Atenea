@@ -93,8 +93,7 @@ export const projectsPortfolio = [
         image: criptomonedaImage,
         techs: [
             {name:"Vite", src:viteImage},
-            {name:"Chakra",   src:chakraImage  },
-            {name:"React Router DOM",   src:reactRouterdomImage  },
+            {name:"Styled Components",   src:styledImage  },
         ],
         description: "Application created with Vite where you'll can convert currencies to crypto",
         repository: "https://github.com/Ludy-Neita/Cripto-Monedas",
